@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin_ios_language_manager", "Xamarin_ios_language_manager\Xamarin_ios_language_manager.csproj", "{F4E96FB7-ABE6-4137-A8A9-0382F6C06D9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4E96FB7-ABE6-4137-A8A9-0382F6C06D9E}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{F4E96FB7-ABE6-4137-A8A9-0382F6C06D9E}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{F4E96FB7-ABE6-4137-A8A9-0382F6C06D9E}.Release|iPhone.ActiveCfg = Release|iPhone
+		{F4E96FB7-ABE6-4137-A8A9-0382F6C06D9E}.Release|iPhone.Build.0 = Release|iPhone
+		{F4E96FB7-ABE6-4137-A8A9-0382F6C06D9E}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{F4E96FB7-ABE6-4137-A8A9-0382F6C06D9E}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{F4E96FB7-ABE6-4137-A8A9-0382F6C06D9E}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{F4E96FB7-ABE6-4137-A8A9-0382F6C06D9E}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
